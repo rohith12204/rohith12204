@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=ROHITH%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Rohith P Header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Software+Engineer+%7C+Full-Stack+%26+AI+Engineer;Building+scalable+full-stack+applications;Engineering+AI-powered+products;Turning+complex+problems+into+working+software" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer+%7C+Full-Stack+%26+AI+Engineer;Building+scalable+full-stack+applications;Engineering+AI-powered+products;Turning+complex+problems+into+working+software" alt="Typing SVG"/>
 </a>
 
 <br/>
