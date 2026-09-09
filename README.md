@@ -19,7 +19,7 @@
 </a>
 
 <a href="mailto:iamrohith.1204@gmail.com">
-  <img src="https://img.shields.io/badge/Email-iamrohith.1204%40gmail.com-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rohith"/>
+  <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
 </a>
 
 <a href="https://github.com/rohith12204">
