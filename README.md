@@ -274,17 +274,7 @@ Worked on the NexTicketSys ticketing platform and AI-driven product enhancements
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github.com/rohith12204/rohith12204/blob/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-## Contribution Snake
+## Contribution 
 
 <div align="center">
 
