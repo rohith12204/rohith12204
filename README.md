@@ -278,7 +278,7 @@ Worked on the NexTicketSys ticketing platform and AI-driven product enhancements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith12204&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github.com/rohith12204/rohith12204/blob/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
