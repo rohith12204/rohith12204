@@ -31,6 +31,7 @@
 <img src="https://komarev.com/ghpvc/?username=rohith12204&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/rohith12204?label=FOLLOWERS&style=for-the-badge&color=4C1D95" alt="GitHub Followers"/>
 <img src="https://img.shields.io/github/stars/rohith12204?label=TOTAL%20STARS&style=for-the-badge&color=312E81" alt="GitHub Stars"/>
+
 </div>
 
 ---
@@ -55,6 +56,7 @@ I also enjoy building AI/ML solutions, particularly around NLP, sentiment analys
 - Building and contributing to meaningful software products
 
 ---
+
 ## Tech Stack
 
 <div align="center">
@@ -77,12 +79,12 @@ I also enjoy building AI/ML solutions, particularly around NLP, sentiment analys
 
 <br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/DistilBERT-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20Concepts-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/DistilBERT-6D28D9?style=flat-square" alt="DistilBERT"/>
+<img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20Concepts-312E81?style=flat-square" alt="RAG and LLM Concepts"/>
 
 ### Development & Tooling
 
@@ -92,68 +94,6 @@ I also enjoy building AI/ML solutions, particularly around NLP, sentiment analys
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=ROHITH%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Rohith P Header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer+%7C+Full-Stack+%26+AI+Engineer;Building+scalable+full-stack+applications;Engineering+AI-powered+products;Turning+complex+problems+into+working+software" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="B.Tech Information Technology"/>
-<img src="https://img.shields.io/badge/Full--Stack%20%26%20AI%20Engineer-312E81?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full-Stack and AI Engineer"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-Bengaluru-4C1D95?style=for-the-badge" alt="Bengaluru"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/rohithp12204/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:iamrohith.1204@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/rohith12204">
-  <img src="https://img.shields.io/badge/GitHub-Profile-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rohith12204&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/rohith12204?label=FOLLOWERS&style=for-the-badge&color=4C1D95" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/rohith12204?label=TOTAL%20STARS&style=for-the-badge&color=312E81" alt="GitHub Stars"/>
-</div>
-
----
-
-## About Me
-
-I'm a Software Engineer focused on building full-stack applications and AI-powered products.
-
-My work spans frontend, backend, APIs, databases, and applied AI — with an emphasis on turning real-world requirements into reliable, usable software.
-
-Currently, I'm working as an AI Engineer Intern, developing an AI-powered student assessment platform across backend and frontend systems. My work includes scalable APIs, assessment pipelines, authentication, consent management, AI scoring, student profiling, end-to-end testing, and production-readiness validation.
-
-I also enjoy building AI/ML solutions, particularly around NLP, sentiment analysis, transformer-based models, and intelligent application workflows. I'm comfortable working across Python and TypeScript ecosystems, with experience using React, Node.js, Django REST Framework, MongoDB, MySQL, and modern AI/ML tooling.
-
-### Open To
-
-- Software Engineering opportunities
-- Full-Stack Engineering roles
-- AI / ML Engineering opportunities
-- Backend Engineering
-- Product-focused engineering teams
-- Building and contributing to meaningful software products
-
----
-## Tech Stack
-
-<div align="center">
-
----
 ## AI / ML Expertise
 
 | Domain | Proficiency | Details |
@@ -171,36 +111,215 @@ I also enjoy building AI/ML solutions, particularly around NLP, sentiment analys
 
 ---
 
-### Languages
+## Featured Projects
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Languages"/>
+### SentiView — AI-Powered Fake Review Detection
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" alt="Frontend Technologies"/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql" alt="Backend and Database Technologies"/>
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch" alt="AI and Machine Learning"/>
+<details>
+<summary><strong>View Project Details</strong></summary>
 
 <br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/DistilBERT-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20Concepts-312E81?style=flat-square"/>
+AI-powered platform focused on fake review detection and sentiment analysis using transformer-based NLP.
 
-### Development & Tooling
+| Area | Details |
+|:---|:---|
+| **Stack** | Python, Django REST Framework, React.js, TypeScript, PyTorch, Hugging Face Transformers, DistilBERT |
+| **Model** | Fine-tuned DistilBERT for smartphone review analysis |
+| **Detection** | Sentiment-rating consistency, linguistic patterns, and behavioural signals |
+| **Backend** | REST APIs and AI inference workflows |
+| **Frontend** | Interactive review analysis dashboards |
+| **Security** | API-based architecture with separated frontend and backend responsibilities |
+| **Impact** | Combines sentiment analysis with multiple credibility signals for review analysis |
+| **Repository** | Not public |
 
-<img src="https://skillicons.dev/icons?i=git,github,postman" alt="Development and Tooling"/>
+#### Engineering Highlights
+
+- Fine-tuned transformer-based NLP models for review classification.
+- Designed a multi-layer approach for identifying potentially misleading reviews.
+- Combined sentiment, rating consistency, linguistic characteristics, and behavioural signals.
+- Integrated AI inference into Django REST APIs.
+- Built an interactive React and TypeScript interface for analysis.
+- Led the project as Team Lead.
+- Project research was published in IJERT.
+
+</details>
+
+---
+
+### Collaborative Editing Platform
+
+<details>
+<summary><strong>View Project Details</strong></summary>
+
+<br/>
+
+Real-time collaborative editing platform designed for multiple users to work together within a shared application environment.
+
+| Area | Details |
+|:---|:---|
+| **Stack** | React.js, Next.js, Clerk, Convex, Liveblocks, Tailwind CSS |
+| **Authentication** | Clerk |
+| **Database** | Convex |
+| **Collaboration** | Liveblocks real-time collaboration |
+| **Frontend** | React.js, Next.js, Tailwind CSS |
+| **Deployment** | Vercel |
+| **Repository** | [Collaborative Editor](https://github.com/rohith12204/collaborativeEditor) |
+
+#### Engineering Highlights
+
+- Built a collaborative editing experience using real-time synchronization.
+- Integrated authentication and user management using Clerk.
+- Used Convex for application data management.
+- Implemented real-time collaboration using Liveblocks.
+- Built the application using a modern Next.js architecture.
+- Designed responsive interfaces with Tailwind CSS.
+- Deployed the application using Vercel.
+
+</details>
+
+---
+
+## Experience
+
+### AI Engineer Intern — Imaginext
+
+**April 2026 – Present**
+
+Working on an AI-powered student assessment platform across backend and frontend systems.
+
+- Developing scalable APIs and assessment workflows.
+- Working on authentication and consent-management flows.
+- Contributing to AI scoring and student profiling capabilities.
+- Building and validating user-facing application functionality.
+- Performing end-to-end testing and defect identification.
+- Supporting integrations, reliability, security, and production-readiness validation.
+
+**Skills:** Python · TypeScript · APIs · AI/ML · Full-Stack Development · Testing
+
+---
+
+### Software Engineer Intern — Wise Work
+
+**October 2025 – March 2026**
+
+Worked on software engineering initiatives involving application development and product workflows.
+
+- Contributed to full-stack application development.
+- Worked across frontend and backend components.
+- Participated in debugging, development, and application validation.
+- Contributed to engineering workflows and product delivery.
+
+**Skills:** Full-Stack Development · JavaScript · TypeScript · APIs · Software Engineering
+
+---
+
+### Full-Stack Developer Intern — Nexware Technologies
+
+**July 2025 – September 2025**
+
+Worked on the NexTicketSys ticketing platform and AI-driven product enhancements.
+
+- Developed frontend components using Vue.js.
+- Built Django REST APIs integrated with MySQL.
+- Worked on ticket and user management workflows.
+- Contributed to reporting and analytics functionality.
+- Worked on asset tracking capabilities.
+- Contributed to HuePlay and HueCreate with AI-driven enhancements.
+- Participated in code reviews, debugging, and sprint planning.
+
+**Skills:** Vue.js · Django REST Framework · MySQL · REST APIs · AI · Full-Stack Development
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| **Research Publication** | Published research on trust-aware aspect-based sentiment analysis and fake review detection using DistilBERT |
+| **Team Leadership** | Led the SentiView project focused on AI-powered review analysis |
+| **AI Engineering** | Built and integrated transformer-based NLP capabilities into full-stack applications |
 
 </div>
 
 ---
 
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Rohith_12204/">
+  <img src="https://img.shields.io/badge/LeetCode-Rohith_12204-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rohith12204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C4B5FD" height="180" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohith12204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rohith12204&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith12204&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohith12204/rohith12204/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohith12204/rohith12204/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/rohith12204/rohith12204/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced AI/ML Engineering
+  - LLM Application Development
+  - System Design
+  - Scalable Backend Architecture
+
+Building:
+  - AI-powered software products
+  - Full-stack applications
+  - Intelligent application workflows
+
+Exploring:
+  - Generative AI
+  - Retrieval-Augmented Generation
+  - Transformer-based NLP
+  - Production AI Systems
+
+Open To:
+  - Software Engineering
+  - Full-Stack Engineering
+  - AI / ML Engineering
+  - Backend Engineering
+  - Product Engineering
