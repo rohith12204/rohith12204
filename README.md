@@ -19,7 +19,7 @@
 </a>
 
 <a href="mailto:iamrohith.1204@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-iamrohith.1204%40gmail.com-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rohith"/>
 </a>
 
 <a href="https://github.com/rohith12204">
@@ -285,31 +285,5 @@ Worked on the NexTicketSys ticketing platform and AI-driven product enhancements
 </picture>
 
 </div>
----
 
-## Current Focus
 
-```yaml
-Learning:
-  - Advanced AI/ML Engineering
-  - LLM Application Development
-  - System Design
-  - Scalable Backend Architecture
-
-Building:
-  - AI-powered software products
-  - Full-stack applications
-  - Intelligent application workflows
-
-Exploring:
-  - Generative AI
-  - Retrieval-Augmented Generation
-  - Transformer-based NLP
-  - Production AI Systems
-
-Open To:
-  - Software Engineering
-  - Full-Stack Engineering
-  - AI / ML Engineering
-  - Backend Engineering
-  - Product Engineering
